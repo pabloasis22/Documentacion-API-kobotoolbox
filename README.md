@@ -1,7 +1,9 @@
 # KoboToolbox API — Documentación Técnica Completa de Integración
 
 **Versión:** 2.0 
+
 **API:** v2 (KPI) 
+
 **Fecha:** 26/02/2026  
 
 ---
