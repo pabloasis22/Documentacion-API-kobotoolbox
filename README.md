@@ -1,6 +1,6 @@
 # KoboToolbox API — Documentación Técnica Completa de Integración
 
-**Versión:** 2.0 | **API:** v2 (KPI) | **Fecha:** Febrero 2026  
+**Versión:** 2.0 | **API:** v2 (KPI) | **Fecha:** 26/02/2026  
 **Audiencia:** Desarrolladores backend, ingenieros de integración, arquitectos de software  
 **Nivel:** Senior / Profesional
 
